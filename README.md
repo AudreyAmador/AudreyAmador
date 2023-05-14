@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AudreyAmador
 - 👀 I’m interested in Mobile Apps
-- 🌱 I’m currently learning Xcode
+- 🌱 I’m currently learning Python
 
 
 <!---
